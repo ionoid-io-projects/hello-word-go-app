@@ -1,0 +1,5 @@
+name: hello-dht11-env
+version: 1.0
+apps:
+    hello-dht11-env:
+        command:    /bin/hello
